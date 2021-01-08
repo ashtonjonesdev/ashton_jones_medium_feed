@@ -1,16 +1,38 @@
-# ashton_jones_medium_feed
+# 📖 Ashton Jones' Medium Feed
 
-An RSS feed of my Medium articles (https://tjgrapes.medium.com/)
+An Flutter app with an RSS feed of my Medium articles (https://tjgrapes.medium.com/)
 
-## Getting Started
+<p align="center"><img src="./gif/20210108_095905.gif"></p>
+-------
 
-This project is a starting point for a Flutter application.
+## 🖥 Technologies used
 
-A few resources to get you started if this is your first Flutter project:
+<b>Built with</b>
+- Flutter SDK
+- Dart
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📚 Libraries used
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [http](https://pub.dev/packages/http)
+* [webfeed](https://pub.dev/packages/webfeed)
+* [url_launcher](https://pub.dev/packages/url_launcher)
+
+
+## 👨🏻‍💻 Developed By
+[Ashton Jones](https://www.ashtonjones.dev/) 
+
+👨‍💻 Google Certified Android Engineer |
+✍ Writer |
+🧘‍♂️ Stoic && Meditator
+👨🏻‍💻 Ashton Jones
+📩 ashtonjonesdev@gmail.com
+🌐 www.ashtonjones.dev
+
+Copyright 2021 Ashton Jones
+
+
+## 📸 Screenshots
+<img src="./screenshots/Screenshot_20210108-095413.jpg" width="30%" height="30%">
+
+
+

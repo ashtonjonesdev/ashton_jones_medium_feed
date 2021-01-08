@@ -1,6 +1,6 @@
 # 📖 Ashton Jones' Medium Feed
 
-An Flutter app with an RSS feed of my Medium articles (https://tjgrapes.medium.com/)
+A Flutter app with an RSS feed of my Medium articles (https://tjgrapes.medium.com/)
 
 <p align="center"><img src="./gifs/20210108_095905.gif"></p>
 -------

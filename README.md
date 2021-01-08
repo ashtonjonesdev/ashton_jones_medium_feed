@@ -2,7 +2,7 @@
 
 An Flutter app with an RSS feed of my Medium articles (https://tjgrapes.medium.com/)
 
-<p align="center"><img src="./gif/20210108_095905.gif"></p>
+<p align="center"><img src="./gifs/20210108_095905.gif"></p>
 -------
 
 ## 🖥 Technologies used
